@@ -4,7 +4,7 @@ Test MSMQ and SignalR in Windows Service and WinForm
 **1: Install Message Queue server**![enter image description here](https://github.com/parisgo/MSQS/blob/master/docs/images/01.png?raw=true)
 
 **2: Debug projects**   
->* Start project "MSQS.Server" for debug Service
+>* Start project "MSQS.Service" for debug Service
 >* Start project "MSQS.Sender for debug UI Sender
 >* Start project "MSQS.Client" at 2 times for debug UI Client
 
